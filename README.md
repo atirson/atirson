@@ -5,15 +5,13 @@
 
 ## Hi guys 👋
 
-My name is Atirson Fabiano, I'm 20 years old and I loved everything about technologies at moment I'm focused my studies in Node, React and React Native with Typescript. About my experiencies you can find at my **[Linkedin](https://www.linkedin.com/in/atirson-fabiano/)**. 
+My name is Atirson Fabiano, I'm 20 years old and I love everything about technologies at moment I'm focusing my studies in Node, React and React Native with Typescript. About my experiencies you can find at my **[Linkedin](https://www.linkedin.com/in/atirson-fabiano/)**. 
 
 <img align="right" alt="GIF" height="160px" style="border-radius: 10px" src="https://media-exp1.licdn.com/dms/image/C4E03AQE0JZyvhIbXWg/profile-displayphoto-shrink_200_200/0/1591013295014?e=1611792000&v=beta&t=y6iOtxnMJ90JUBw8RAhry8vOA-1mMENMhilV7gDCsPc" />
 
-Currently I'm living in Anápolis, Goáis - Brazil. But at future I want have new experiecies in the others countrys like Canada, Irland and etc. I'm loved in my free time reading some books (Sherlock Holmes is my favorite kkkk), training Karate and watch a series/movies.
+Currently I'm living in Anápolis, Goiás - Brazil. But at future I want have new experiecies and live in the others countrys like Canada, Irland and etc. I'm love at my free time reading some books (Sherlock Holmes is my favorite kkkk), training Karate and watch a series/movies.
 
-
-  And I'm opened to learn new languages, meeting new people and share 
-knowledge.
+And I'm opened to learn new languages, meeting new people and share knowledge..
 <br>
 <br>
 <br>
