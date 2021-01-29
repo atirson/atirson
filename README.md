@@ -1,7 +1,7 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=atirson.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/atirson?style=social)
 
-[![Banner-Twitch-Glaucia-Lemos.png](https://media-exp1.licdn.com/dms/image/C4E16AQETdUrlU0K2Tg/profile-displaybackgroundimage-shrink_200_800/0?e=1611792000&v=beta&t=b54yXcy1fD4MtItKqpRkIvZpvA3ERAfrwbtp0DKRE2o)](https://postimg.cc/ZW49hFcQ)
+[![Banner-Twitch-Glaucia-Lemos.png](https://media-exp1.licdn.com/dms/image/C4E16AQETdUrlU0K2Tg/profile-displaybackgroundimage-shrink_200_800/0/1571527027380?e=1617235200&v=beta&t=82RXdw6AKeW0B_f1z4wvAZinjU-UzFLmju2M4lVgrVw)](https://postimg.cc/ZW49hFcQ)
 
 ## Hi guys 👋
 
