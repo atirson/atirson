@@ -1,6 +1,3 @@
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=atirson.visitor-badge)
-![GitHub followers](https://img.shields.io/github/followers/atirson?style=social)
-
 [![Banner.png](https://media-exp1.licdn.com/dms/image/C4E16AQETdUrlU0K2Tg/profile-displaybackgroundimage-shrink_200_800/0/1571527027380?e=1622678400&v=beta&t=YY-CisyH7-ostpuMh7jtZ7y0MRiHxg6idSIQ4PhFj-E)](https://postimg.cc/ZW49hFcQ)
 
 ## Hi guys 👋
