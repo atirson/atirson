@@ -1,4 +1,4 @@
-[![Banner.png](.github/banner.jpeg)](https://postimg.cc/ZW49hFcQ)
+[![Banner.png](.github/banner.jpeg)]
 
 ## Hi guys 👋
 
