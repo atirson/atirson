@@ -2,7 +2,7 @@
 
 ## Hi guys 👋
 
-My name is Atirson Fabiano, I'm 21 years old and I love everything about technology. At the moment I'm focusing my studies on Node, React and React Native with Typescript. You can find out more about my experiences at my **[Linkedin](https://www.linkedin.com/in/atirson-fabiano/)**. 
+My name is Atirson Fabiano, I'm 22 years old and I love everything about technology. At the moment I'm focusing my studies on Node, React and React Native with Typescript. You can find out more about my experiences at my **[Linkedin](https://www.linkedin.com/in/atirson-fabiano/)**. 
 
 Currently I'm living in Anápolis, Goiás - Brazil but in the future I want to have new experiences and live in other countries like Canada, Ireland etc. In my free time I love reading books (Sherlock Holmes is my favorite rsrsrs), practicing Karate and watching series/movies.
 
