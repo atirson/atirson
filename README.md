@@ -74,7 +74,7 @@ I'm open to learning new languages, meeting new people and sharing knowledge.
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fabiano.oliveira.2213/)
 [![Gmail](https://img.shields.io/badge/fabiano.oliveira2213@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiano.oliveira2213@gmail.com)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/atirsonfabiano/)
-<div align="center">
+<div>
 <a href="https://medium.com/https://medium.com/@atirson.oliveira" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
