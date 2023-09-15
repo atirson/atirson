@@ -64,10 +64,6 @@ I'm open to learning new languages, meeting new people and sharing knowledge.
 
 <br>
 
-![Snake animation](https://github.com/atirson/atirson/blob/output/github-contribution-grid-snake.svg)
-
-<br>
-
 ## 🎯 Let's Keep in Touch and Follow me 
 
 <div align="center">
