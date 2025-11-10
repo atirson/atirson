@@ -2,7 +2,7 @@
 
 ## Hi guys - 👨‍💻 Atirson Fabiano | Front-end Developer
 
-I am a Front-end Developer with over **{{XP}}** years of experience, specializing in building scalable, high-performance applications using React (NextJS), React Native, and TypeScript.
+I am a Front-end Developer with over **6** years of experience, specializing in building scalable, high-performance applications using React (NextJS), React Native, and TypeScript.
 
 I also have 2+ years of experience working with PHP (Laravel, PHPUnit), Node.js (Express) developing robust back-end solutions and full-stack applications.
 
