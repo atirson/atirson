@@ -1,25 +1,47 @@
-name: Generate Datas
+name: Update Age in README
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: '0 12 28 * *'  # Executa dia 28 de cada mês às 12:00 UTC
+  workflow_dispatch:  # Permite execução manual
 
 jobs:
-  build:
-    name: Jobs to update datas
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: atirson
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v3
+      
+      - name: Update Age
+        run: |
+          python3 << EOF
+          from datetime import datetime
+          
+          def calcular_idade():
+              hoje = datetime.now()
+              nascimento = datetime(2019, 1, 28)
+              idade = hoje.year - nascimento.year
+              if (hoje.month, hoje.day) < (nascimento.month, nascimento.day):
+                  idade -= 1
+              return idade
+          
+          idade = calcular_idade()
+          
+          with open('README.md', 'r') as f:
+              content = f.read()
+          
+          # Substitui o placeholder
+          content = content.replace('{{XP}}', str(idade))
+          
+          with open('README.md', 'w') as f:
+              f.write(content)
+          
+          print(f"Idade atualizada para: {idade} anos")
+          EOF
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "🎂 Atualiza idade para $(date +%Y)"
+          git push

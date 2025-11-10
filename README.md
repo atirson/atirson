@@ -1,12 +1,14 @@
 ![Banner.png](.github/banner.jpeg)
 
-## Hi guys 👋
+## Hi guys - 👨‍💻 Atirson Fabiano | Front-end Developer
 
-My name is Atirson Fabiano, I'm 24 years old and I love everything about technology. I'm expert on Node, React and React Native with Typescript. You can find out more about my experiences at my **[Linkedin](https://www.linkedin.com/in/atirson-fabiano/)**. 
+I am a Front-end Developer with over **{{XP}}** years of experience, specializing in building scalable, high-performance applications using React (NextJS), React Native, and TypeScript.
 
-Currently I'm living in Anápolis, Goiás - Brazil but in the future I want to have new experiences and live in other countries like Canada, Ireland etc. In my free time I love reading books (Sherlock Holmes is my favorite rsrsrs), practicing Karate and watching series/movies.
+I also have 2+ years of experience working with PHP (Laravel, PHPUnit), Node.js (Express) developing robust back-end solutions and full-stack applications.
 
-I'm open to learning new languages, meeting new people and sharing knowledge.
+I have extensive experience in modern front-end architectures, design systems, micro-frontends, and performance optimization. I am passionate about creating seamless user experiences, solving complex problems, and delivering high-quality software. 
+
+You can find out more about my experiences at my **[Linkedin](https://www.linkedin.com/in/atirson-fabiano/)**. 
 <br>
 <br>
 <br>
@@ -67,21 +69,18 @@ I'm open to learning new languages, meeting new people and sharing knowledge.
 ## 🎯 Let's Keep in Touch and Follow me 
 
 <div align="center">
-<a href="https://medium.com/@atirson.oliveira" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/atirson_dev" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/10951276/atirson-fabiano?tab=profile" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/atirson-fabiano/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/atirsonfabiano/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<a href="https://atirson.vercel.app/" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-%3000000.svg?&style=for-the-badge&logo=devbox&logoColor=red alt=portfolio style="margin-bottom: 5px;" />
+</a> 
+<a href="https://www.youtube.com/@atirson-dev" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a> 
+<a href="https://twitter.com/atirson_dev" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
