@@ -1,4 +1,4 @@
-name: Update Age in README
+name: Update XP in README
 
 on:
   schedule:
@@ -10,38 +10,40 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
-      - name: Update Age
+
+      - name: Update XP
         run: |
           python3 << EOF
+          import re
           from datetime import datetime
-          
-          def calcular_idade():
+
+          def calcular_xp():
               hoje = datetime.now()
-              nascimento = datetime(2019, 1, 28)
-              idade = hoje.year - nascimento.year
-              if (hoje.month, hoje.day) < (nascimento.month, nascimento.day):
-                  idade -= 1
-              return idade
-          
-          idade = calcular_idade()
-          
+              inicio = datetime(2019, 1, 28)
+              anos = hoje.year - inicio.year
+              if (hoje.month, hoje.day) < (inicio.month, inicio.day):
+                  anos -= 1
+              return anos
+
+          xp = calcular_xp()
+
           with open('README.md', 'r') as f:
               content = f.read()
-          
-          # Substitui o placeholder
-          content = content.replace('{{XP}}', str(idade))
-          
+
+          # Marcador é preservado a cada execução, então o job continua
+          # idempotente ano após ano (nunca "consome" o placeholder).
+          content = re.sub(r'(<!--XP-->)\d+(<!--/XP-->)', rf'\g<1>{xp}\g<2>', content)
+
           with open('README.md', 'w') as f:
               f.write(content)
-          
-          print(f"Idade atualizada para: {idade} anos")
+
+          print(f"XP atualizado para: {xp} anos")
           EOF
-      
+
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "🎂 Atualiza idade para $(date +%Y)"
+          git diff --quiet && git diff --staged --quiet || git commit -m "📈 Atualiza XP para $(date +%Y)"
           git push

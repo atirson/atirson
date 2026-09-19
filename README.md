@@ -3,7 +3,7 @@
 <h2 align="center">Hi, I'm Atirson Fabiano 👋</h2>
 <h3 align="center">Senior Software Engineer — React & React Native | Node.js & PHP | AI-First Development</h3>
 
-I'm a Senior Software Engineer with **{{XP}}+ years** of experience building production-grade **React**, **Next.js** and **React Native** applications in TypeScript, and **2+ years** delivering back-end solutions with **Node.js (Express)** and **PHP (Laravel)**. I own architectural decisions end-to-end — from micro-frontends to performance and cost optimization — on high-traffic products serving millions of users.
+I'm a Senior Software Engineer with **<!--XP-->7<!--/XP-->+ years** of experience building production-grade **React**, **Next.js** and **React Native** applications in TypeScript, and **2+ years** delivering back-end solutions with **Node.js (Express)** and **PHP (Laravel)**. I own architectural decisions end-to-end — from micro-frontends to performance and cost optimization — on high-traffic products serving millions of users.
 
 I'm an **AI-first engineer**: Claude, Gemini and custom AI agents are part of my daily workflow for coding, code review and automation, cutting execution time by up to **91.7%** on smaller tasks and **66.7%** on larger ones.
 
@@ -16,12 +16,13 @@ I'm an **AI-first engineer**: Claude, Gemini and custom AI agents are part of my
 
 ## 🛠️ Skill Set
 
-<table width="100%">
-<tr>
-<td valign="top" width="25%">
-
-### Frontend
 <div align="center">
+<table width="100%" align="center">
+<tr>
+<td align="center" valign="top" width="25%">
+
+<h3 align="center">Frontend</h3>
+
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
@@ -30,12 +31,11 @@ I'm an **AI-first engineer**: Claude, Gemini and custom AI agents are part of my
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>
-</div>
 
-</td><td valign="top" width="25%">
+</td><td align="center" valign="top" width="25%">
 
-### Backend
-<div align="center">
+<h3 align="center">Backend</h3>
+
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
@@ -44,12 +44,11 @@ I'm an **AI-first engineer**: Claude, Gemini and custom AI agents are part of my
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
-</div>
 
-</td><td valign="top" width="25%">
+</td><td align="center" valign="top" width="25%">
 
-### DevOps & Cloud
-<div align="center">
+<h3 align="center">DevOps & Cloud</h3>
+
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
@@ -57,25 +56,21 @@ I'm an **AI-first engineer**: Claude, Gemini and custom AI agents are part of my
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-</div>
 
-</td><td valign="top" width="25%">
+</td><td align="center" valign="top" width="25%">
 
-### Testing & Quality
-<div align="center">
+<h3 align="center">Testing & Quality</h3>
+
 <a href="https://jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" style="margin: 10px" />
-<br>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" style="margin: 10px" />
-<br>
-<img src="https://img.shields.io/badge/PHPUnit-121212?style=for-the-badge" alt="PHPUnit" style="margin: 10px" />
-<br>
-<img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud" style="margin: 10px" />
-</div>
+<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/cypress/17202C" alt="Cypress" height="50" /></a>
+<img style="margin: 10px" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+<img style="margin: 10px" src="https://img.shields.io/badge/PHPUnit-8892BF?style=flat-square" alt="PHPUnit" />
+<img style="margin: 10px" src="https://img.shields.io/badge/SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white" alt="SonarCloud" />
 
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center">
 
@@ -115,10 +110,18 @@ I'm an **AI-first engineer**: Claude, Gemini and custom AI agents are part of my
 ## 📊 GitHub Stats
 
 <p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atirson/atirson/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atirson/atirson/output/github-contribution-grid-snake.svg" />
+<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/atirson/atirson/output/github-contribution-grid-snake.svg" />
+</picture>
+</p>
+
+<p align="center">
 <img src="https://streak-stats.demolab.com/?user=atirson&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atirson&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=atirson&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 <p align="center">
 <img src="https://img.shields.io/github/followers/atirson?style=for-the-badge&label=followers&color=1DA1F2&logo=github&logoColor=white" alt="GitHub followers" />
